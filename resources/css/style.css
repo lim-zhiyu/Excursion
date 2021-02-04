@@ -1,11 +1,23 @@
+/* Global rules */
 body {
   background-color: black;
+  font-family: Verdana;
 }
 
+/* Header */
 h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+header div {
+  text-align: center;
+  font-size: 16px;
+}
+
+header a {
+  color: Aquamarine;
 }
