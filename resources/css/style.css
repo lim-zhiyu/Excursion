@@ -21,3 +21,8 @@ header div {
 header a {
   color: Aquamarine;
 }
+
+/* Main */
+main p {
+  text-align: center;
+}
