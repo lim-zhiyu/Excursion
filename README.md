@@ -1,2 +1,2 @@
 # About
-This is a simple Codecademy project for learning basic semantic HTML and CSS. You can view the webpage on: https://zhiyu-github.github.io/codecademy_excursion
+A Codecademy project for learning semantic HTML and CSS. The webpage is available at: https://lim-zhiyu.github.io/excursion
