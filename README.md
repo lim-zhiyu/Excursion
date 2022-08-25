@@ -1,2 +1,3 @@
-# About
-A Codecademy project for learning semantic HTML and CSS. The webpage is available at: https://lim-zhiyu.github.io/excursion
+# Excursion
+## Description
+The homepage of a fictional mobile app. The website is available [here](https://lim-zhiyu.github.io/Excursion).
